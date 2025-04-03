@@ -1,2 +1,13 @@
 # SPEECH-RECOGNITION-SYSTEM
 BUILD A BASIC SPEECH-TO-TEXT SYSTEM USING PRE-TRAINED MODELS AND LIBRARIES LIKE SPEECHRECOGNITION OR WAV2VEC.  COMPLETION CERTFICATE WILL BE ISSUED ON Y0UR INTERNSHIP  END DATE .  CODTECH  INS T R U C T I O NS : SPEECH  RECOGNITION  SYSTEM  DELIVERABLE: A FUNCTIONAL SYSTEM CAPABLE OF TRANSCRIBING SHORT AUDIO CLIP
+
+https://drive.google.com/file/d/1KD_nCulgjeZVhPo6x5UqSh1v37bxCDMZ/view?usp=drive_link
+
+this drive link is a video of how this project will work.
+
+company name = Codetech It Solutions
+Name = Srayasree Dhar.
+Intern Id= CT06WU06
+Domain = AI
+Duration = 6 weeks
+Mentor = Neela Santosh.
